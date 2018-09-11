@@ -30,4 +30,5 @@ cd ..
 # CPP-Mqtt-IoT-Ignite-Basic Installation
 git clone https://github.com/KMACEL/CPP-Mqtt-IoT-Ignite-Basic.git
 cd CPP-Mqtt-IoT-Ignite-Basic
+make
 ```
